@@ -73,12 +73,12 @@ function App() {
           <div class="col-xxl-3 col-xl-4 col-lg-7 col-md-8 col-sm-9">
             <div class="container-fluid bg-info rounded rounded-sm shadow-sm px-5 py-4">
               <h3 class="fs-2 text-center mt-2 fw-semibold mb-4">Customer Feedback</h3>
-              <h4 class="fs-6 mt-3">Customer Name</h4>
+              <h4 class="fs-6 mt-3 lead">Customer Name</h4>
               <div class="form-floating mb-2">
                 <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" />
                 <label for="floatingInput">Input here</label>
               </div>
-              <h4 class="fs-6 mt-3">Comments</h4>
+              <h4 class="fs-6 mt-3 lead">Comments</h4>
               <div class="form-floating">
                 <textarea class="form-control py-5" placeholder="Leave a comment here" id="floatingTextarea2" />
                 <label for="floatingTextarea2">Input here</label>
